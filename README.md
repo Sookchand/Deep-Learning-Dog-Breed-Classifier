@@ -10,7 +10,11 @@ I would like to acknowledge the TensorFlow and TensorFlow Hub teams for their co
 
 
 ## Demo
-![image](https://user-images.githubusercontent.com/34344439/210097379-6b573f6f-6002-40ec-83ad-6b675a1b7dd4.png)
+
+- Breadth-First Search (FIFO): The route is [1, 6, 5], and total cost is 23.
+- Depth-First Search (LIFO): The route is [1, 6, 5], and total cost is 23.
+- Uniform-Cost Search: The route is [1, 3, 6, 5], and total cost is 20.
+
 
 ## Tech Stack
 - TensorFlow, 
@@ -20,7 +24,9 @@ I would like to acknowledge the TensorFlow and TensorFlow Hub teams for their co
 - TensorHub: https://www.tensorflow.org/hub.
 
 ## Lessons Learned
-The lessons learned from this solution include how to use TensorFlow and TensorFlow Hub to build a model for image classification, how to preprocess images for input into a model, and how to use callbacks to monitor the training process.
+- How to use TensorFlow and TensorFlow Hub to build a model for image classification, 
+- How to preprocess images for input into a model,
+- How to use callbacks to monitor the training process.
 # Hi, I'm Sookchand! 👋
 
 To be better than yesterday, better than the last hour, even to be better than the last
