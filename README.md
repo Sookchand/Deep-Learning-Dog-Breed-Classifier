@@ -10,11 +10,7 @@ I would like to acknowledge the TensorFlow and TensorFlow Hub teams for their co
 
 
 ## Demo
-
-- Breadth-First Search (FIFO): The route is [1, 6, 5], and total cost is 23.
-- Depth-First Search (LIFO): The route is [1, 6, 5], and total cost is 23.
-- Uniform-Cost Search: The route is [1, 3, 6, 5], and total cost is 20.
-
+![image](https://user-images.githubusercontent.com/34344439/210097520-69cd345b-de06-423e-bd6d-2283c91e2ef2.png)
 
 ## Tech Stack
 - TensorFlow, 
